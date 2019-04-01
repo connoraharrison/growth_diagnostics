@@ -1,0 +1,36 @@
+series_id,series_name,source_name,country_id,country_name,region,income_group,year,value
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2013,25.0
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2013,32.9
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",504,Morocco,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2013,23.4
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",788,Tunisia,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2013,12.9
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",792,Turkey,Europe and Eurasia,Upper Middle Income Country (World Bank Classification),2013,31.4
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",792,Turkey,Europe and Eurasia,Upper Middle Income Country (World Bank Classification),2008,38.0
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2016,7.9
+5003,Proportion of investment financed by banks (percentage),"World Bank, Enterprise Surveys",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2013,5.2
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2008,-9.044536
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2009,6.244001
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2010,0.547549
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2011,2.187139
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2012,4.09585
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2013,3.229391
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2014,5.361031
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2015,6.066383
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",400,Jordan,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2016,7.036588
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2008,2.224823
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2009,-1.136652
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2010,7.654607
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2011,3.887438
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2012,0.142976
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2013,4.391089
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2014,4.968782
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2015,4.721046
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",422,Lebanon,Middle East and North Africa,Upper Middle Income Country (World Bank Classification),2016,6.748298
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2008,0.107853
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2009,0.710036
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2010,0.818722
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2011,-0.563878
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2012,-6.26272
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2013,3.292157
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2014,0.414129
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2015,1.541068
+6188,Real interest rate (percentage),"World Bank, World Development Indicators (WDI)",818,Egypt,Middle East and North Africa,Lower Middle Income Country (World Bank Classification),2016,6.922011

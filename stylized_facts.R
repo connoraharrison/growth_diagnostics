@@ -57,4 +57,25 @@ ggplot(data = gdp,
   labs(title = "Growth Comparison",
        subtitle = "Comparison of Per Capita GDP across the Peer Group",
        caption = "Source = USAID Inclusive Growth Diagnostic Indicators")
+credit2 <- mutate(credit, log(value))
+credit3 <- select(credit2, series="series_name", year="year", value=`log(value)`)
 
+# Invest v. GDP
+ggplot(data = credit3, 
+       mapping = aes(x = as.numeric(year), y = value)) +
+  geom_line(aes(color=series), size = 1.5, alpha = 0.7) +
+  theme(panel.grid.major.x = element_blank()) +
+  theme_fivethirtyeight() +
+  labs(title = "Price Constraint",
+       subtitle = "Comparison of Real Interest Rate and Investment Levels",
+       caption = "Source = USAID Inclusive Growth Diagnostic Indicators")
+
+# Log Interest Rates v. Log Domestic Credit
+ggplot(data = credit3, 
+       mapping = aes(x = as.numeric(year), y = value)) +
+  geom_line(aes(color=series), size = 1.5, alpha = 0.7) +
+  theme(panel.grid.major.x = element_blank()) +
+  theme_fivethirtyeight() +
+  labs(title = "Price Constraint",
+       subtitle = "Comparison of Real Interest Rate and Investment Levels",
+       caption = "Source = USAID Inclusive Growth Diagnostic Indicators")
