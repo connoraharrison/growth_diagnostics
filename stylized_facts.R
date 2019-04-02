@@ -9,6 +9,8 @@ gdp <- read_csv("data_records.1553542397.csv")
 ggplot(data = gdp, 
        mapping = aes(x = as.numeric(year), y = value, group=country_name, color = country_name)) +
   geom_line(size = 1.5, alpha = 0.7) +
+  theme_fivethirtyeight() +
+  scale_color_economist() + 
   labs(title = "Growth Over Time",
        subtitle = "Per Capita GDP for Jordan and selected Peers", 
        caption = "Source = World Bank Open Data")
@@ -76,6 +78,8 @@ ggplot(data = credit3,
   geom_line(aes(color=series), size = 1.5, alpha = 0.7) +
   theme(panel.grid.major.x = element_blank()) +
   theme_fivethirtyeight() +
-  labs(title = "Price Constraint",
-       subtitle = "Comparison of Real Interest Rate and Investment Levels",
+  scale_color_economist() +
+  theme(panel.grid.major.x = element_blank()) +
+  labs(title = "Examining the Finance Constraint",
+       subtitle = "Comparison Between Log of Real Interest Rate and Domestic Credit",
        caption = "Source = USAID Inclusive Growth Diagnostic Indicators")
